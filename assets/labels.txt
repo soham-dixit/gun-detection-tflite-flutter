@@ -1,0 +1,2 @@
+0 GUN
+1 NOGUN
